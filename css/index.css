@@ -194,7 +194,8 @@ img {
 
 .footer-logo {
     display: block;
-    width: 235px;
+    width: 100%;
+    max-width: 900px;
     margin-top: 90px;
 }
 
